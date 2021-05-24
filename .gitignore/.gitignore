@@ -1,0 +1,15 @@
+checking given number is even Or odd
+a=int(input("enter the value:"))
+if (a%2==0):
+	print("Given number is even number")
+else :
+	print("Given number is odd number")
+
+Output:
+enter the value: 8
+Given number is even number 
+      
+     Or
+Output:
+enter the value: 3
+Given number us odd
